@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 # Sakaar Srivastava (19Doors) ~
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=19Doors&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=19Doors&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
