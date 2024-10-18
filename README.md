@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 [![@19Doors's Holopin board](https://holopin.io/api/user/board?user=19doors)](https://holopin.io/@19doors)
+[![An image of @19doors's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/19doors)](https://holopin.io/@19doors)
